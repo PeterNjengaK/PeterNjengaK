@@ -1,34 +1,8 @@
-# 🚗 Peter Auto Hub
+### 👋 Hi there! I'm Peter Njenga
 
-A fully functional car dealership web platform built with **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**, designed for dynamic listing, user inquiries, and admin management.
+I'm a self-driven software developer with a passion for creating simple, useful, and impactful desktop and web applications using **Python**, **PHP**, and **frontend tools** like HTML, CSS, and JavaScript.
 
-### Features:
-
-- 🛒 **Real-time car listings** with filters (make, model, price)
-- 🧾 **Inquiry system** with email notifications
-- 🛠️ **Admin dashboard** to manage cars and view inquiries
-- 🖼️ **Multiple images per car** (Base64 or upload-based)
-- 📱 Responsive design for mobile & desktop
-- 🔐 Login-protected admin area
-
-### Tech Stack:
-
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP (vanilla)
-- **Database:** MySQL
-- **Hosting:** InfinityFree (Free PHP/MySQL hosting)
-- **Version Control:** Git, GitHub
-
-👉 [Live Demo](http://peterhub.wuaze.com/)  
-📦 [Source Code on GitHub](https://github.com/PeterNjengaK/peter-auto-hub)
-
----
-
-## 👋 Hi there! I'm Peter Njenga
-
-I'm a self-driven software developer passionate about building practical desktop and web applications that solve real-world problems.
-
-I enjoy designing intuitive user interfaces and turning ideas into clean, working systems — whether it's in **Python**, **PHP**, or **vanilla web tech**.
+With a focus on **user-friendly systems**, I love building real-world applications — from member management systems to car dealership websites — complete with modern UI, secure login, dynamic content, backups, charts, and exportable reports.
 
 ---
 
@@ -36,41 +10,53 @@ I enjoy designing intuitive user interfaces and turning ideas into clean, workin
 
 - **Languages:** Python, JavaScript (basic), HTML/CSS, PHP
 - **Frameworks & Tools:** Tkinter, PyQt, Matplotlib, ReportLab, OpenPyXL, Electron
-- **Database & Storage:** MySQL, JSON, File I/O
-- **Dev Tools:** Git, GitHub, VS Code, PyInstaller
-- **Extras:** PDF/Excel generation, GitHub Pages, responsive UI design
+- **Web Tools:** PHP, JavaScript, MongoDB/MySQL, REST APIs
+- **Version Control:** Git, GitHub
+- **Others:** JSON, File I/O, PDF/Excel generation, GitHub Pages, VS Code, PyInstaller
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 What I Can Do
 
-### 🔧 Web Apps
+- Develop **cross-platform desktop apps**
+- Build **full-stack dynamic web apps**
+- Design **modern responsive user interfaces**
+- Implement **secure login systems**, **data backup**, **session timeout**
+- Generate **data reports (PDF/Excel)** and **visual dashboards**
+- Consume and build **REST APIs**
+- Host and maintain **GitHub repositories and web deployments**
+- Package applications using **PyInstaller** and **Electron**
+
+---
+
+## 🛠️ Featured Projects
 
 - [🚗 Peter Auto Hub](https://github.com/PeterNjengaK/peter-auto-hub)  
-  > A fully functional PHP-based car sales website with admin dashboard, live listings, image upload, and inquiry system.
-
-- [🌐 Church Website](https://github.com/PeterNjengaK/churchwebsite)  
-  > A clean and responsive static website for a church.
-
-- [💼 Personal Portfolio](https://github.com/PeterNjengaK/peternjengak.github.io)  
-  > Portfolio website showcasing my projects and skills (deployed with GitHub Pages).
-
-- [🤝 Tuungane Test Website](https://github.com/PeterNjengaK/tuungane)  
-  > HTML/CSS layout test for a community engagement portal.
-
-- [🛒 E-Commerce Sample](https://github.com/PeterNjengaK/ecommerce)  
-  > Front-end mockup for an online store.
-
-### 🖥️ Desktop Apps
+  > A dynamic full-stack car dealership website with an admin panel, multi-image uploads, inquiry system, contact forms with email notifications, and database-powered car listings — built using HTML, CSS, JavaScript, PHP, and MySQL.
 
 - [📋 Church Member Registration App](https://github.com/PeterNjengaK/ChurchMemberRegistration)  
-  > Full-featured desktop system with backup, login, charts, and reporting.
+  > Full-featured desktop system for member registration, reporting, filtering, charts, backups & login security.
 
 - [🧠 Mood Journal App](https://github.com/PeterNjengaK/MoodJournalApp)  
-  > Personal tracker with export features and elegant UI.
+  > Personal mood tracker that logs feelings and thoughts, with export options and modern UI.
+
+- [🌐 Church Website](https://github.com/PeterNjengaK/churchwebsite)  
+  > A simple HTML/CSS-based church website for showcasing events and contact info.
+
+- [💼 Personal Portfolio](https://github.com/PeterNjengaK/peternjengak.github.io)  
+  > Static portfolio website hosted with GitHub Pages to showcase projects and skills.
 
 - [🏫 School MIS](https://github.com/PeterNjengaK/school)  
-  > Lightweight school management system using PHP/MySQL.
+  > A basic PHP-powered school management system (MIT Licensed).
+
+- [🤝 Tuungane Test Website](https://github.com/PeterNjengaK/tuungane)  
+  > Early web layout test with CSS and HTML for community-based system.
+
+- [🛒 E-Commerce Sample](https://github.com/PeterNjengaK/ecommerce)  
+  > A simple sample layout for e-commerce website (front-end prototype).
+
+- [📁 GitHub Profile Repo](https://github.com/PeterNjengaK/PeterNjengaK)  
+  > This README and personal branding to showcase my journey and projects.
 
 ---
 
@@ -78,10 +64,6 @@ I enjoy designing intuitive user interfaces and turning ideas into clean, workin
 
 - 📧 Email: [peter.njengakihoro@gmail.com](mailto:peter.njengakihoro@gmail.com)
 - 🔗 GitHub: [github.com/PeterNjengaK](https://github.com/PeterNjengaK)
-- 🌍 Website (optional): *(Add if hosting portfolio elsewhere)*
-- 💼 LinkedIn (optional): *(Add if available)*
+- 💼 LinkedIn: *(Add your profile here if you have one)*
 
 ---
-
-> 🎯 *"Code simply. Build meaningfully. Deliver reliably."*  
-— Peter Njenga
